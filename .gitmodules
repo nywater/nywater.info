@@ -1,0 +1,9 @@
+[submodule "nyw_data"]
+	path = nyw_data
+	url = https://github.com/nywater/nyw_data.git
+[submodule "nyw_web_api"]
+	path = nyw_web_api
+	url = https://github.com/nywater/nyw_web_api.git
+[submodule "nyw_web_client"]
+	path = nyw_web_client
+	url = https://github.com/nywater/nyw_web_client.git
